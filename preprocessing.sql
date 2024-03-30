@@ -22,10 +22,10 @@ ALTER TABLE daily_sales
 UPDATE daily_sales
 SET season = 
     CASE 
-        WHEN MONTH(date) BETWEEN 3 AND 5 THEN 'spring'
-        WHEN MONTH(date) BETWEEN 6 AND 8 THEN 'summer'
-        WHEN MONTH(date) BETWEEN 9 AND 11 THEN 'fall'
-        ELSE 'winter'
+        WHEN MONTH(date) BETWEEN 3 AND 5 THEN 'Spring'  -- March, April, May
+        WHEN MONTH(date) BETWEEN 6 AND 8 THEN 'Summer'  -- June, July, August
+        WHEN MONTH(date) BETWEEN 9 AND 11 THEN 'Fall'   -- September, October, November
+        ELSE 'Winter'  -- January, February, December
     END;
 
 -- Check for NULL values in daily_sales table
@@ -44,7 +44,7 @@ WHERE temperature = 'ICE';
 
 -- Update values where empty string is found
 UPDATE product
-SET temperature = 'N/A'
+SET temperature = 'N/A'  -- products in dessert category
 WHERE temperature = '';
 
 -- Remove products not exist in the time period for which data was collected
