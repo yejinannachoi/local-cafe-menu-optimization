@@ -77,7 +77,7 @@ INNER JOIN product AS p ON nps.product_id = p.product_id
 ORDER BY normalized_sales
 LIMIT 10;
 
--- 현재 판매되고 있는 전체 제품 판매량 하위 TOP 10 (ONLY_FULL_GROUP_BY mode disabled)
+-- 현재 판매되고 있는 전체 제품 판매량 하위 TOP 10 (ONLY_FULL_GROUP_BY mode 비활성화)
 WITH normalized_product_sales AS(
 	SELECT p.name
 		, SUM(ps.quantity_sold) AS total_sales
@@ -156,7 +156,7 @@ FROM (
 ) AS ranked_product
 WHERE rk <= 5;
 
--- 카테고리별 현재 판매되고 있는 제품 판매량 하위 TOP 15 (ONLY_FULL_GROUP_BY mode disabled)
+-- 카테고리별 현재 판매되고 있는 제품 판매량 하위 TOP 15 (ONLY_FULL_GROUP_BY mode 비활성화)
 WITH normalized_product_sales AS(
 	SELECT p.category
 		, p.name
