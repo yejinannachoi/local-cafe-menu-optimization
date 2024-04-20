@@ -23,14 +23,14 @@
 5. 판매가 중단되어 메뉴에서 제거된 제품들은 실제로 인기가 없었을 것이다.
 
 ## 데이터 전처리
-[MySQL 활용 데이터 전처리](./preprocessing_kor.sql)
+[MySQL 활용 데이터 전처리](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/preprocessing.sql)
 
 ## 탐색적 데이터 분석 (EDA)
-[MySQL 활용 EDA](./EDA_kor.sql)
+[MySQL 활용 EDA](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA.sql)
 
 ## 데이터 시각화
-[Python 활용 데이터 시각화](./EDA_visualization_kor.ipynb)
+[Python 활용 데이터 시각화](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA_visualization.ipynb)
 
 ## 최종 프로젝트 자료
 데이터 설명, 분석 결과, 액션 아이템, 회고 등 주요 내용이 포함되어 있습니다.  
-[노션 활용 프로젝트 자료](./final_deliverable.pdf)
+[노션 활용 프로젝트 자료](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
