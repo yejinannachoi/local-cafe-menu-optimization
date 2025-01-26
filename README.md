@@ -1,24 +1,24 @@
 # Local Black Tea Cafe Sales Data Analysis for Menu Optimization
 
-Since 2021, the black tea cafe run by my parents has faced two major issues concerning the menu.
+The black tea cafe run by my parents since 2021 has faced two major issues concerning the menu.
 1. Any decisions related to the menu, such as introducing or discontinuing items and developing new products, were made based on intuition.
 2. The menu filled with too many items made it difficult for employees to follow recipes and maintain consistent quality.
 
-이러한 문제들을 해결하기 위해 POS 시스템에서 수집된 1년 치 매출 데이터를 분석하여 **모든 제품의 인기도를 확인**하고 **메뉴를 최적화**하는 프로젝트를 진행했다.
+To address these issues, I analyzed one year’s worth of POS sales data using MySQL to **assess the popularity of all products** and **optimize the menu** accordingly.
 
-## 분석 목적
+## Objectives
 
-- 상대적으로 판매량이 부진한 **비인기 제품을 식별하고 제거**하여 메뉴 구성 조정
-- 고객의 선호도를 파악하여 **새로운 제품을 개발할 때 참고** 자료로 활용
-- 판매가 중단됐지만 상대적으로 인기가 있었던 제품은 **재출시**하여 메뉴 구성 조정
+- Identify and remove unpopular products with relatively low sales to adjust the menu.
+- Use customer preferences to guide the development of new products.
+- Reintroduce discontinued products that had relatively high popularity to adjust the menu.
 
-## 분석 결과 예상 (가설)
+## Hypotheses
 
-1. 홍차 전문 카페이기 때문에 홍차가 들어가지 않는 제품은 인기가 없을 것이다.
-2. 여름에는 차가운 음료가 인기 있고, 겨울에는 따뜻한 음료가 인기 있을 것이다.
-3. 메뉴판 상단에 위치한 제품들은 접근이 쉬워서 판매량이 많을 것이다.
-4. 구매를 유도하는 추천 문구가 달린 제품들은 판매량이 많을 것이다.
-5. 판매가 중단되어 메뉴에서 제거된 제품들은 실제로 인기가 없었을 것이다.
+1. Since it is a cafe specializing in black tea, non-black tea products will likely be unpopular.
+2. Cold drinks will be popular in the summer, while warm drinks will be popular in the winter.
+3. Products placed at the top of the menu will have higher sales due to their increased accessibility.
+4. Products with phrases like "Signature" will likely have higher sales.
+5. Products that were removed from the menu were likely unpopular, indeed.
 
 ## 데이터 전처리
 [MySQL 활용 데이터 전처리](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/preprocessing.sql)
