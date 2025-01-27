@@ -1,4 +1,7 @@
+![Cup Of Coffee](https://cdn.pixabay.com/photo/2017/04/16/18/01/coffee-2235370_1280.jpg)
+
 # Local Black Tea Cafe Sales Data Analysis for Menu Optimization
+![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![seaborn](https://img.shields.io/badge/seaborn-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red)
 
 The black tea cafe run by my parents since 2021 has faced two major issues concerning the menu.
 1. Any decisions related to the menu, such as introducing or discontinuing items and developing new products, were made based on intuition.
@@ -8,9 +11,9 @@ To address these issues, I analyzed one year’s worth of POS sales data using M
 
 ## Objectives
 
-- Identify and remove unpopular products with relatively low sales to adjust the menu.
-- Use customer preferences to guide the development of new products.
-- Reintroduce discontinued products that had relatively high popularity to adjust the menu.
+- **Identify and remove unpopular products** with relatively low sales to adjust the menu.
+- Use customer preferences to **guide the development of new products**.
+- **Reintroduce discontinued products** that had relatively high popularity to adjust the menu.
 
 ## Hypotheses
 
@@ -30,7 +33,7 @@ To address these issues, I analyzed one year’s worth of POS sales data using M
 [Data visualization using Python](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/EDA_visualization.ipynb)
 
 ## Final deliverable
-Includes key content such as data description, analysis results, action items, and reflection.
+Includes key content such as data description, analysis results, action items, and reflection.\
 [Final deliverable documented using Notion](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
 
 ---
@@ -51,7 +54,7 @@ Includes key content such as data description, analysis results, action items, a
 - 고객의 선호도를 파악하여 **새로운 제품을 개발할 때 참고** 자료로 활용
 - 판매가 중단됐지만 상대적으로 인기가 있었던 제품은 **재출시**하여 메뉴 구성 조정
 
-## 분석 결과 예상 (가설)
+## 분석 결과 예상
 
 1. 홍차 전문 카페이기 때문에 홍차가 들어가지 않는 제품은 인기가 없을 것이다.
 2. 여름에는 차가운 음료가 인기 있고, 겨울에는 따뜻한 음료가 인기 있을 것이다.
@@ -69,5 +72,5 @@ Includes key content such as data description, analysis results, action items, a
 [Python 활용 데이터 시각화](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA_visualization.ipynb)
 
 ## 최종 프로젝트 자료
-데이터 설명, 분석 결과, 액션 아이템, 회고 등 주요 내용이 포함되어 있습니다.  
+데이터 설명, 분석 결과, 액션 아이템, 회고 등 주요 내용이 포함되어 있습니다.\
 [노션 활용 프로젝트 자료](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
