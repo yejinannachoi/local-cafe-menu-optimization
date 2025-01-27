@@ -20,20 +20,20 @@ To address these issues, I analyzed one year’s worth of POS sales data using M
 4. Products with phrases like "Signature" will likely have higher sales.
 5. Products that were removed from the menu were likely unpopular, indeed.
 
-## 데이터 전처리
-[MySQL 활용 데이터 전처리](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/preprocessing.sql)
+## Data Preprocessing
+[Data preprocessing using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/preprocessing.sql)
 
-## 탐색적 데이터 분석 (EDA)
-[MySQL 활용 EDA](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA.sql)
+## Exploratory Data Analysis
+[EDA performed using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/EDA.sql)
 
-## 데이터 시각화
-[Python 활용 데이터 시각화](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA_visualization.ipynb)
+## Data visualization
+[Data visualization using Python](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/EDA_visualization.ipynb)
 
-## 최종 프로젝트 자료
-데이터 설명, 분석 결과, 액션 아이템, 회고 등 주요 내용이 포함되어 있습니다.  
-[노션 활용 프로젝트 자료](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
+## Final deliverable
+Includes key content such as data description, analysis results, action items, and reflection.
+[Final deliverable documented using Notion](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
 
-
+---
 
 # 메뉴 최적화를 위한 홍차 전문 카페 데이터 분석
 
