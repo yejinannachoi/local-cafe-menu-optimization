@@ -1,7 +1,7 @@
-![Cup Of Coffee](https://cdn.pixabay.com/photo/2017/04/16/18/01/coffee-2235370_1280.jpg)
+![Cup Of Coffee](https://github.com/yejinannachoi/yejinannachoi.github.io/blob/216bb1f08009e54ae3e78a3239ae907b7173090c/local-cafe-sales-data-analysis/img.jpg)
 
-# Local Black Tea Cafe Sales Data Analysis for Menu Optimization
-![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![seaborn](https://img.shields.io/badge/seaborn-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red)
+# Local Black Tea Cafe Sales Data Analysis
+![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![seaborn](https://img.shields.io/badge/seaborn-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red) ![Menu Optimization](https://img.shields.io/badge/Menu_Optimization-yellow)
 
 The black tea cafe run by my parents since 2021 has faced two major issues concerning the menu.
 1. Any decisions related to the menu, such as introducing or discontinuing items and developing new products, were made based on intuition.
