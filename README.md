@@ -24,17 +24,17 @@ To address these issues, I analyzed one year’s worth of POS sales data using M
 5. Products that were removed from the menu were likely unpopular, indeed.
 
 ## Data Preprocessing
-[Data preprocessing using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/preprocessing.sql)
+[Data preprocessing using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu-optimization/preprocessing.sql)
 
 ## Exploratory Data Analysis
-[EDA performed using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/EDA.sql)
+[EDA performed using MySQL](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu-optimization/EDA.sql)
 
 ## Data visualization
-[Data visualization using Python](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(eng)/EDA_visualization.ipynb)
+[Data visualization using Python](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu-optimization/EDA_visualization.ipynb)
 
 ## Final deliverable
 Includes key content such as data description, analysis results, action items, and reflection.\
-[Final deliverable documented using Notion](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
+[Final deliverable documented using Notion](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu-optimization/final_deliverable.pdf)
 
 ---
 
@@ -63,14 +63,14 @@ Includes key content such as data description, analysis results, action items, a
 5. 판매가 중단되어 메뉴에서 제거된 제품들은 실제로 인기가 없었을 것이다.
 
 ## 데이터 전처리
-[MySQL 활용 데이터 전처리](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/preprocessing.sql)
+[MySQL 활용 데이터 전처리](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/메뉴-최적화/preprocessing.sql)
 
 ## 탐색적 데이터 분석 (EDA)
-[MySQL 활용 EDA](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA.sql)
+[MySQL 활용 EDA](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/메뉴-최적화/EDA.sql)
 
 ## 데이터 시각화
-[Python 활용 데이터 시각화](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/EDA_visualization.ipynb)
+[Python 활용 데이터 시각화](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/메뉴-최적화/EDA_visualization.ipynb)
 
 ## 최종 프로젝트 자료
 데이터 설명, 분석 결과, 액션 아이템, 회고 등 주요 내용이 포함되어 있습니다.\
-[노션 활용 프로젝트 자료](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/menu%20optimization%20(kor)/final_deliverable.pdf)
+[노션 활용 프로젝트 자료](https://github.com/yejinannachoi/cafe_menu_optimization/blob/main/메뉴-최적화/final_deliverable.pdf)
