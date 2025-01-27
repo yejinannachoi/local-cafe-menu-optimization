@@ -1,9 +1,9 @@
 ![Cup Of Coffee](https://github.com/yejinannachoi/yejinannachoi.github.io/blob/216bb1f08009e54ae3e78a3239ae907b7173090c/local-cafe-sales-data-analysis/img.jpg)
 
 # Local Black Tea Cafe Sales Data Analysis
-![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![seaborn](https://img.shields.io/badge/seaborn-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red) ![Menu Optimization](https://img.shields.io/badge/Menu_Optimization-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![Python](https://img.shields.io/badge/Python-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red) ![Menu Optimization](https://img.shields.io/badge/Menu_Optimization-yellow)
 
-The black tea cafe run by my parents since 2021 has faced two major issues concerning the menu.
+The local black tea cafe run by my parents since 2021 has faced two major issues concerning the menu.
 1. Any decisions related to the menu, such as introducing or discontinuing items and developing new products, were made based on intuition.
 2. The menu filled with too many items made it difficult for employees to follow recipes and maintain consistent quality.
 
