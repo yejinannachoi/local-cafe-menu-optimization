@@ -1,6 +1,9 @@
 ![Cup Of Coffee](https://github.com/yejinannachoi/yejinannachoi.github.io/blob/216bb1f08009e54ae3e78a3239ae907b7173090c/local-cafe-sales-data-analysis/img.jpg)
-<small>This project has been documented in both English and Korean. Please check the bottom of the README for the Korean version.</small>  
-<small>이 프로젝트는 영어와 한국어로 모두 동일하게 작성 및 기록되었습니다. 한국어 버전은 README 하단에서 확인하실 수 있습니다.</small>
+
+This project has been documented in both English and Korean. Please check the bottom of the README for the Korean version.\
+이 프로젝트는 모든 내용이 영어와 한국어로 동일하게 작성 및 기록되었습니다. 한국어 버전은 README 하단에서 확인하실 수 있습니다.
+
+***
 
 # Local Black Tea Cafe Sales Data Analysis
 ![MySQL](https://img.shields.io/badge/MySQL-blue) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green) ![Python](https://img.shields.io/badge/Python-purple) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-red) ![Menu Optimization](https://img.shields.io/badge/Menu_Optimization-yellow)
