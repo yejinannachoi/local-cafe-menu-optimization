@@ -1,7 +1,8 @@
-![Cup Of Coffee](https://github.com/yejinannachoi/yejinannachoi.github.io/blob/216bb1f08009e54ae3e78a3239ae907b7173090c/local-cafe-sales-data-analysis/img.jpg)
+This project has been documented in both English and Korean.\
+이 프로젝트는 모든 내용이 영어와 한국어로 동일하게 작성 및 기록되었습니다.
 
-This project has been documented in both English and Korean. Please check the bottom of the README for the Korean version.\
-이 프로젝트는 모든 내용이 영어와 한국어로 동일하게 작성 및 기록되었습니다. 한국어 버전은 README 하단에서 확인하실 수 있습니다.
+Please check the bottom of the README for the Korean version.\
+한국어 버전은 README 하단에서 확인하실 수 있습니다.
 
 ***
 
